@@ -31,6 +31,7 @@ meu_projeto_finops/
 ├── data/
 │   └── custos_exemplo.csv
 ├── src/
+│   ├── __init__.py
 │   ├── carregar_dados.py
 │   ├── validar_dados.py
 │   ├── analisar_custos.py
@@ -75,3 +76,4 @@ Nenhum recurso de nuvem é acessado, alterado ou excluído automaticamente. Reco
 ## Objetivo de aprendizagem
 
 O projeto foi desenvolvido para praticar Python, organização modular de código, análise de dados, automação de relatórios, testes automatizados e conceitos de FinOps.
+
