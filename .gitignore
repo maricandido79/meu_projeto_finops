@@ -1,0 +1,27 @@
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Arquivos de ambiente e segredos
+.env
+.env.*
+
+# Arquivos temporarios do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de build
+build/
+dist/
+*.spec
+
+# Backups dos codigos antigos
+backup_original/
+
+# Arquivos gerados pelo projeto
+relatorios/
+

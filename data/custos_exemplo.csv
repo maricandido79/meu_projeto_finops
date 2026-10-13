@@ -1,0 +1,8 @@
+instancia_id,departamento,custo_hora_usd,media_uso_cpu_pct,horas_ativas_fds,ultimo_acesso_dias
+i-001,Desenvolvimento,0.48,12.5,2,2
+i-002,Marketing,0.24,4.2,3.5,5
+i-003,Homologacao,0.48,8.0,1,1
+i-004,Producao,1.92,78.3,0,0
+i-005,Pesquisa_Zumbi,0.96,0.5,45,45
+
+
